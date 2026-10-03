@@ -129,3 +129,7 @@ dmypy.json
 .pyre/
 .idea/*
 .env
+# SQLite databases
+*.db
+*.db-journal
+*.sqlite3
